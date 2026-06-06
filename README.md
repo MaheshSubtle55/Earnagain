@@ -1,7 +1,7 @@
 # Earnagain
 tryna explore the commands
 <br>
-hey there, it's me!
+hey there, it's me! <br>
 ahahah
 <br>
 hahahah
